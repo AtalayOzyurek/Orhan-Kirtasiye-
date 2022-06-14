@@ -1,0 +1,6 @@
+arama butonu index haric calışmıyor 
+orhan kırtasiye adında deişik harfler var  ing cevirdiğinde 
+
+
+
+sayfalama   pagination  araştır 1 2 3 sayfalama 
